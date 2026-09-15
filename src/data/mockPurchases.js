@@ -1,0 +1,26 @@
+export const mockPurchases = [
+    {
+      id: 'pu1',
+      date: '2025-01-05',
+      supplier: 'Hasan Wheat Co.',
+      product: 'Wheat',
+      quantity: 5000,
+      bags: 100,
+      price: 42,
+      totalCost: 210000,
+      vehicle: 'DHA-1111',
+      remarks: '',
+    },
+    {
+      id: 'pu2',
+      date: '2025-01-09',
+      supplier: 'Sundarban Agro',
+      product: 'Wheat',
+      quantity: 3000,
+      bags: 60,
+      price: 43,
+      totalCost: 129000,
+      vehicle: 'DHA-2222',
+      remarks: 'Good quality',
+    },
+  ];
